@@ -1,4 +1,5 @@
-/*Author: Shruti Kannan
+/*
+Submitted by: Shruti Kannan
 Team: Prateek Mehta, G Sivaperumal
 Description: Counting the number of pedestrians in a video shot from a CCTV camera (Segmentation and tracking)
 */

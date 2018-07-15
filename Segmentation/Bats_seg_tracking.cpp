@@ -1,5 +1,5 @@
 /*
-Authors : Shruti Kannan,
+Submitted by: Shruti Kannan,
 Team: G Siva Perumal, Prateek Mehta
 Description: Segmentation and tracking of bats
 */
